@@ -10,7 +10,7 @@
 
 - 👨‍💻 Skills: **Tableau, SQL, Excel/Sheets,**
 
-- ⚡ Certified Tableau Desktop Specialist
+- 🏅 Certified Tableau Desktop Specialist
 
 ### Conect with me! 
 
