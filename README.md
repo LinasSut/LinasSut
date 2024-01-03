@@ -1,4 +1,4 @@
-<img align="right" width="420" height="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
+<img align="right" width="320" height="300" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
 
 # Hello There 👏, I'm Linas!! 
 
