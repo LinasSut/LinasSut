@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
+<img align="right" width="420" height="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
 
 # Hello There 👏, I'm Linas!! 
 
@@ -6,9 +6,12 @@
 ### I am passionate data analytic from Lithuania
 
 
-- 🔭 I’m currently searching for a job as **Data Analytics** 
+- 🔭 I’m currently searching for a job as **Data Analytics**
+
 - 🌱 I’m currently learning **Python**
+
 - 👨‍💻 Skills: **Tableau, SQL, Excel/Sheets,**
+
 - ⚡ Certified Tableau Desktop Specialist 
 
 ### Contact Me! 
