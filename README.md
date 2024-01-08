@@ -1,8 +1,11 @@
-<img align="right" width="380" height="350" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
+<div align="center">
+  <h1 style="font-size: 2em; font-weight: bold;">Hello There 👏, I'm Linas!!</h1>
+</div>
 
-# Hello There 👏, I'm Linas!! 
+<img align="right" width="420" height="350" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
 
 ### I am passionate data analytic from Lithuania
+
 
 - 🔭 I’m currently searching for a job as **Data Analytics**
 
@@ -11,6 +14,8 @@
 - 👨‍💻 Skills: **Tableau, SQL, Excel/Sheets,**
 
 - 🏅 Certified Tableau Desktop Specialist
+
+
 
 ### Conect with me! 
 
