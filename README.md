@@ -13,6 +13,8 @@
 
 - 👨‍💻 Skills: **Tableau, SQL, Excel/Sheets,**
 
+- 📊 Pasionate about data visualization using **Tableau**
+
 - 🏅 Certified Tableau Desktop Specialist
 
 
