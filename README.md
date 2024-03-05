@@ -2,7 +2,7 @@
   <h1 style="font-size: 2em; font-weight: bold;">Hello There 👏, I'm Linas!!</h1>
 </div>
 
-<img align="right" width="530" height="450" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
+<img align="right" width="430" height="350" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
 
 ### Tableau and Data analytic Enthusiast from Lithuania
 
