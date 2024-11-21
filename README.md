@@ -6,6 +6,7 @@
 
 <img align="right" width="430" height="350" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
 
+
 ### Tableau and Data analytic Enthusiast from Lithuania
 
 -  🏅 Certified Tableau Desktop Specialist
@@ -15,6 +16,7 @@
 - 👨‍💻 Skills: **Tableau, SQL, Python,**
 
 - 📊 Pasionate about data visualization using **Tableau**
+
 
 
 
