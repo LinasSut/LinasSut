@@ -8,8 +8,6 @@
 
 ### Tableau and Data analytic Enthusiast from Lithuania
 
-- 🔭 Currently searching for a job as **Data Analytics**
-
 -  🏅 Certified Tableau Desktop Specialist
 
 - 🌱 I’m currently learning **Python** 
@@ -17,8 +15,6 @@
 - 👨‍💻 Skills: **Tableau, SQL, Python,**
 
 - 📊 Pasionate about data visualization using **Tableau**
-
-
 
 
 
